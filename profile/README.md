@@ -1,7 +1,7 @@
 # Banktivity – Personal Finance and Budgeting for Mac
 
 <div align="center">  
-<img src="https://www.banktivity.com/content/assets/images/logos-badges/banktivity-logo-tag-light@2x.png" alt="Banktivity Logo" width="256" height="256">  
+<img src="https://www.iggsoftware.com/blog/wp-content/uploads/2017/01/Banktivity-6.png" alt="Banktivity Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
